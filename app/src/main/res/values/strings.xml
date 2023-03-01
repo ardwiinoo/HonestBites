@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HonestBites</string>
+    <string name="foods_name">Nama Makanan</string>
+    <string name="item_food_desc">Deskripsi Makanan</string>
 </resources>
