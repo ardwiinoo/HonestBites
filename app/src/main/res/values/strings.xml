@@ -2,6 +2,7 @@
     <string name="app_name">HonestBites</string>
     <string name="foods_name">Nama Makanan</string>
     <string name="item_food_desc">Deskripsi Makanan</string>
+    <string name="item_food_price">Harga Makanan</string>
 
     <string-array name="data_food_name">
         <item>Bakmie Miroso</item>
@@ -16,19 +17,19 @@
         <item>Wajik</item>
     </string-array>
 
-    <string-array name="data_food_photo">
-        <item>@drawable/bakmieMiroso</item>
+    <integer-array name="data_food_photo">
+        <item>@drawable/bakmie_miroso</item>
         <item>@drawable/dawet</item>
         <item>@drawable/goring</item>
-        <item>@drawable/nasiTerancam</item>
-        <item>@drawable/nasiTumpangLethok</item>
-        <item>@drawable/sateKambing</item>
-        <item>@drawable/segoWiwit</item>
+        <item>@drawable/nasi_terancam</item>
+        <item>@drawable/nasi_tumpang_lethok</item>
+        <item>@drawable/sate_kambing</item>
+        <item>@drawable/sego_wiwit</item>
         <item>@drawable/slondok</item>
-        <item>@drawable/sopAyamPecok</item>
+        <item>@drawable/sop_ayam_pecok</item>
         <item>@drawable/wajik</item>
-    </string-array>
-    
+    </integer-array>
+
     <string-array name="data_food_description">
         <item>Jangan lupakan olahan mie yang khas dari Klaten seperti yang satu ini. Bakmie miroso sudah menjadi kudapan legendaris dari Klaten yang wajib untuk dicoba. Salah satu jenis makanan yang bertemakan Chinese Food namun halal sering diserbu oleh warga lokal atau wisatawan. Bumbu yang dibuat untuk memasaknya sudah diturunkan sejak lama dan akan membuat Anda semakin ketagihan.</item>
         <item>Dawet Onggok memiliki cita rasa yang segar juga manis ditambah dengan isian istimewa berupa tape ketan makin membuatnya terasa nikmat. Minuman khas Klaten ini terbuat dari hasil ekstrak serat pohon aren yang telah melalui proses penepungan. Perpaduan rasa yang sempurna dan tentunya unik membuat minuman yang hanya kamu bisa temui di Klaten ini wajib dicoba. Segarnya Dawet Onggok akan semakin terasa nikmat dan bakal bikin kamu menikmati minuman khas dari Klaten ini ketika menikmatinya pertama kali.</item>
