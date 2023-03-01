@@ -2,4 +2,57 @@
     <string name="app_name">HonestBites</string>
     <string name="foods_name">Nama Makanan</string>
     <string name="item_food_desc">Deskripsi Makanan</string>
+
+    <string-array name="data_food_name">
+        <item>Bakmie Miroso</item>
+        <item>Dawet</item>
+        <item>Goring</item>
+        <item>Nasi Trancam</item>
+        <item>Nasi Tumpang Lethok</item>
+        <item>Sate Kambing</item>
+        <item>Sego Wiwit</item>
+        <item>Slondok</item>
+        <item>Sop Ayam Pecok</item>
+        <item>Wajik</item>
+    </string-array>
+
+    <string-array name="data_food_photo">
+        <item>@drawable/bakmieMiroso</item>
+        <item>@drawable/dawet</item>
+        <item>@drawable/goring</item>
+        <item>@drawable/nasiTerancam</item>
+        <item>@drawable/nasiTumpangLethok</item>
+        <item>@drawable/sateKambing</item>
+        <item>@drawable/segoWiwit</item>
+        <item>@drawable/slondok</item>
+        <item>@drawable/sopAyamPecok</item>
+        <item>@drawable/wajik</item>
+    </string-array>
+    
+    <string-array name="data_food_description">
+        <item>Jangan lupakan olahan mie yang khas dari Klaten seperti yang satu ini. Bakmie miroso sudah menjadi kudapan legendaris dari Klaten yang wajib untuk dicoba. Salah satu jenis makanan yang bertemakan Chinese Food namun halal sering diserbu oleh warga lokal atau wisatawan. Bumbu yang dibuat untuk memasaknya sudah diturunkan sejak lama dan akan membuat Anda semakin ketagihan.</item>
+        <item>Dawet Onggok memiliki cita rasa yang segar juga manis ditambah dengan isian istimewa berupa tape ketan makin membuatnya terasa nikmat. Minuman khas Klaten ini terbuat dari hasil ekstrak serat pohon aren yang telah melalui proses penepungan. Perpaduan rasa yang sempurna dan tentunya unik membuat minuman yang hanya kamu bisa temui di Klaten ini wajib dicoba. Segarnya Dawet Onggok akan semakin terasa nikmat dan bakal bikin kamu menikmati minuman khas dari Klaten ini ketika menikmatinya pertama kali.</item>
+        <item>Hidangan khas Klaten ini terkenal akan kuahnya yang nendang. Selain terbuat dari tahu dan tempe goreng, kuliner Klaten ini juga ditambahkan tauge, kol, tomat dan mie kuning basah yang makin membuatnya terlihat menggugah selera. Goring biasa disajikan dalam mangkuk dengan siraman kuah dan kacang tanah goreng juga seledri cincang yang ditaburkan di atasnya. Di beberapa warung, makanan khas Klaten Jawa Tengah kuliner ini dilengkapi dengan cabai rawit, mentimun dan lontong. Sajian komplit yang bakal membuat kamu kenyang dan tentunya tergoda menyantapnya sampai habis.</item>
+        <item>Nasi Trancam Khas Klaten Jawa Tengah menawarkan isian sehat dan segar berupa kacang panjang, kol, mentimun, petai cina, kemangi juga tambahan parutan kelapa yang sudah diberi bumbu pedas. Terdengar cukup unik dan menarik, ternyata Nasi Trancam juga disebut saladnya orang Indonesia. Perpaduan rasa gurih, pedas, manis dan asin bakal bikin rasa yang dijamin bikin ngiler untuk menyuap lagi dan lagi.</item>
+        <item>Sego Tumpang Lethok wajib banget untuk dicoba. Hidangan khas Klaten ini berisikan telur rebus dan daun pepaya nangka muda, bacem, daun jeruk, koyor dan krecek yang kemudian disiram dengan kuah sambal tumpang. Kuah sambal tumpang adalah salah satu sajian yang terbuat campuran tempe, santan, cabai dan aneka rempah lainnya. Perpaduan rasa yang pas dan tentunya nikmat akan semakin lengkap dijadikan sebagai menu sarapan.</item>
+        <item>Untuk kamu pecinta sate kambing maka hidangan Sate Kambing khas Klaten wajib untuk dicoba. Dagingnya yang dan tentunya tidak amis makin membuat kamu tergoda untuk segera menyantapnya. Tidak hanya itu, penyajiannya juga dilengkapi dengan nasi dan acar mentimun. Gurihnya bumbu sate serta empuk daging kambing terasa nikmat dan memuaskan lidah.</item>
+        <item>Saat sedang diadakan tradisi Selamatan(Sedekah Bumi) di daerah Klaten, Sego Wiwit sudah pasti ada di dalam daftar menu yang tidak boleh terlewatkan. Seiring berkembangnya zaman maka kuliner ini bisa kamu temukan di berbagai tempat makan di Klaten. Dimana, kamu akan mendapatkan seporsi Sego Wiwit yang berisikan sayur, nasi, aneka lauk dan lalapan. Perpaduan rasa yang sempurna dijamin bakal bikin kamu tergoda untuk menyantap lagi dan lagi.</item>
+        <item>Makanan berbentuk cincin ini merupakan oleh-oleh khas Klaten yang tidak boleh kamu lewatkan. Slondok berbahan utama singkong yang sudah digiling dan direbus bersama bumbu khusus. Setelah matang dan tercampur, adonan Slondok akan dibentuk seperti cincin dan dijemur sampai kering. Selanjutnya, Slondok yang sudah kering akan digoreng sampai matang. Perpaduan teksturnya yang renyah serta beragam pilihan rasa, tentu bakal bikin kamu tergoda menikmatinya sampai habis.</item>
+        <item>Makanan khas Klaten berikutnya adalah Sop Ayam Pecok. Hidangan khas Klaten ini cukup populer karena kaldu ayamnya yang jadi andalan, juga proses memasak yang berbeda dari olahan ayam lain. Rasa yang disuguhkan tentunya lezat dan bakal menghipnotis kamu ketika mulai menyuapnya. Pecok sendiri berarti daging ayam yang dipotong acak langsung bersama tulangnya. Dari sinilah keunikan Sop Ayam Pecok diperoleh.</item>
+        <item>Makanan khas Klaten Jawa Tengah ini mempunyai kelezatan yang berbeda dan unik. Berbahan utama beras ketan dan campuran gula merah membuat Wajik Khas Klaten punya cita rasa manis serta legit yang khas. Perpaduan rasa yang sempurna dan tentunya juga nikmat bakal bikin kamu tergoda untuk menikmatinya lagi dan lagi.</item>
+    </string-array>
+
+    <string-array name="data_food_price">
+        <item>25,000</item>
+        <item>3,500</item>
+        <item>15,000</item>
+        <item>15,000</item>
+        <item>15,000</item>
+        <item>38,000</item>
+        <item>7,000</item>
+        <item>10,000</item>
+        <item>5,000</item>
+        <item>12,000</item>
+    </string-array>
+
 </resources>
