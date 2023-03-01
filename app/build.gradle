@@ -1,11 +1,12 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'kotlin-parcelize'
 }
 
 android {
     namespace 'com.ardwiinoo.honestbites'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.ardwiinoo.honestbites"
