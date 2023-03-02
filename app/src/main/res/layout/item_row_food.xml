@@ -9,6 +9,8 @@
     android:layout_marginStart="8dp"
     android:layout_marginTop="4dp"
     android:layout_marginEnd="8dp"
+    android:backgroundTint="#FAFAFA"
+    android:elevation="4dp"
     android:layout_marginBottom="4dp"
     card_view:cardCornerRadius="4dp">
 
@@ -36,6 +38,7 @@
             android:layout_toEndOf="@id/img_item_food_photo"
             android:textSize="16sp"
             android:textStyle="bold"
+            android:textColor="#424242"
             card_view:layout_constraintEnd_toEndOf="parent"
             card_view:layout_constraintStart_toEndOf="@+id/img_item_food_photo"
             card_view:layout_constraintTop_toTopOf="@+id/img_item_food_photo"
@@ -45,6 +48,7 @@
             android:id="@+id/tv_item_food_description"
             android:layout_width="0dp"
             android:layout_height="0dp"
+            android:textColor="#424242"
             android:layout_marginTop="8dp"
             android:ellipsize="end"
             android:maxLines="2"

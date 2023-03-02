@@ -36,8 +36,13 @@ class DetailActivity : AppCompatActivity(), View.OnClickListener {
         }
 
         binding.btnLike.setOnClickListener(this)
-        binding.btnShare.setOnClickListener(this)
+        binding.actionShare.setOnClickListener(this)
 
+        // back btn
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+        if (food != null) {
+            supportActionBar!!.title = food.name
+        }
     }
 
     override fun onClick(v: View) {
@@ -51,13 +56,13 @@ class DetailActivity : AppCompatActivity(), View.OnClickListener {
                     Toast.makeText(this@DetailActivity, "Batal Menyukai", Toast.LENGTH_SHORT).show()
                 }
             }
-            binding.btnShare.id -> {
+            binding.actionShare.id -> {
                 val intent = Intent(Intent.ACTION_SEND).apply {
                     type = "text/plain"
-                    putExtra(Intent.EXTRA_SUBJECT, "Sharing Food")
-                    putExtra(Intent.EXTRA_TEXT, "Check out this delicious food!")
+                    putExtra(Intent.EXTRA_SUBJECT, "Bagikan Food")
+                    putExtra(Intent.EXTRA_TEXT, "Lihat makanan enak ini, bikin ngilerr...")
                 }
-                startActivity(Intent.createChooser(intent, "Share Food"))
+                startActivity(Intent.createChooser(intent, "Bagikan Food"))
             }
         }
     }

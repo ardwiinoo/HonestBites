@@ -3,6 +3,9 @@
     <string name="foods_name">Nama Makanan</string>
     <string name="item_food_desc">Deskripsi Makanan</string>
     <string name="item_food_price">Harga Makanan</string>
+    <string name="about">About</string>
+    <string name="myName">Arif Dwi Nugroho</string>
+    <string name="myEmail">arif2000018335@webmail.uad.ac.id</string>
 
     <string-array name="data_food_name">
         <item>Bakmie Miroso</item>
